@@ -1,4 +1,4 @@
 # Python
-All about Lerning Python Scripts
+All about Learning Python Scripts!
 
 
