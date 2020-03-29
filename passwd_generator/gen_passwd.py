@@ -21,3 +21,5 @@ while True:
 # print (password)
 pyperclip.copy(password)
 result = pyperclip.paste()
+
+print ('copied password to clipboard!')
